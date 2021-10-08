@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I ❤️ anything to do with IoT, automation, concurrency and Star Wars. I also like to make robots fight to death.
+Interested in the technical and mathematical side of programming. Don't mention web development in front of me.
+Proficient in Python and C. 
 
 You can contact me on Discord: Zeffo#0393
 
