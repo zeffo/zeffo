@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a High School student from India, learning Python and interested in concurrency, parallelism and dynamic programming!
-I'm proficient in Python and C, and I love robotics.
+
+I ❤️ anything to do with IoT, automation, concurrency and Star Wars. I also like to make robots fight to death.
 
 You can contact me on Discord: Zeffo#0393
 
