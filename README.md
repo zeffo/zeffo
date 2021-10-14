@@ -1,5 +1,4 @@
-Interested in the technical and mathematical side of programming. Don't mention web development in front of me.
-Proficient in Python and C. 
+RoboWars for TechNoMinds. Proficient in Python and C. Not interested in webdev or fixing your printer.
 
 You can contact me on Discord: Zeffo#0393
 
