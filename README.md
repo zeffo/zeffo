@@ -1,4 +1,4 @@
-RoboWars for TechNoMinds. Proficient in Python and C. Not interested in webdev or fixing your printer.
+RoboWars for TechNoMinds. Proficient in Python and C. Not interested in front end or fixing your printer.
 
 You can contact me on Discord: Zeffo#0393
 
