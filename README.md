@@ -1,4 +1,4 @@
-[https://zeffo.me](Everything you need to know about me.)
+[Everything you need to know about me.](https://zeffo.me)
 
 You can contact me on Discord: Zeffo#0393
 
