@@ -1,4 +1,4 @@
-RoboWars for TechNoMinds. Proficient in Python and C. Not interested in frontend or fixing your printer.
+[https://zeffo.me](Everything you need to know about me.)
 
 You can contact me on Discord: Zeffo#0393
 
