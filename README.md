@@ -1,8 +1,3 @@
-https://zeffo.me
-
-You can contact me on:
-  - Discord: Zeffo#0393
-  - Email: phatakaman@gmail.com
-
-
-
+- **web**: [https://zeffo.me](https://zeffo.me)
+- **mail**: aman@zeffo.me
+- **discord**: @zeffonian
