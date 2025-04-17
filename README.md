@@ -3,4 +3,4 @@ hello there :3
 - **mail**: aman@zeffo.me
 - **discord**: @zeffonian  
 
-![eepy cat]("./sprites/sleep.gif")
+![eepy cat](./sprites/sleep.gif)
