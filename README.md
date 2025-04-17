@@ -8,14 +8,23 @@
 ![8](./sprites/_8.png)
 ![9](./sprites/_9.png)
 ![10](./sprites/_10.png)
+![11](./sprites/_11.png)
+![12](./sprites/_12.png)
+![13](./sprites/_13.png)
+![14](./sprites/_14.png)
+![15](./sprites/_15.png)
+![16](./sprites/_16.png)
 
-
-hello there :3 ![11](./sprites/_11.png)![12](./sprites/_12.png)![13](./sprites/_13.png)
-- **web**: [https://zeffo.me](https://zeffo.me) ![14](./sprites/_14.png)![15](./sprites/_15.png)![16](./sprites/_16.png)
-- **mail**: aman@zeffo.me ![17](./sprites/_17.png)![18](./sprites/_18.png)![19](./sprites/_19.png)
-- **discord**: @zeffonian ![20](./sprites/_20.png)![21](./sprites/_21.png)![22](./sprites/_22.png)
-
-
+hello there :3 
+- **web**: [https://zeffo.me](https://zeffo.me)
+- **mail**: aman@zeffo.me
+- **discord**: @zeffonian  
+![17](./sprites/_17.png)
+![18](./sprites/_18.png)
+![19](./sprites/_19.png)
+![20](./sprites/_20.png)
+![21](./sprites/_21.png)
+![22](./sprites/_22.png)
 ![23](./sprites/_23.png)
 ![24](./sprites/_24.png)
 ![25](./sprites/_25.png)
